@@ -1,0 +1,1 @@
+Simulates virtual sensors sending JSON pings
